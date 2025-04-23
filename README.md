@@ -1,6 +1,6 @@
 # week7a-python
 
-# Please open the code file using jupyter notebook, vscode, colab research google or anaconda app tools to visualize data
+# After Git clone you can Open the code file using jupyter notebook, vscode, colab research google or anaconda app tools to visualize data
 
 Analyzing Data with Pandas and Visualizing Results with Matplotlib
 Description
