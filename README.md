@@ -1,6 +1,6 @@
 # week7a-python
 
-# Please open the code file using vscode, colab research google or anacond app tools to visualize data
+# Please open the code file using jupyter notebook, vscode, colab research google or anacond app tools to visualize data
 
 Analyzing Data with Pandas and Visualizing Results with Matplotlib
 Description
